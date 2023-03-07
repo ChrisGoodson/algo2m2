@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/algo2m2/static/css/main.e6c13ad2.css",
+    "main.js": "/algo2m2/static/js/main.15cc2012.js",
+    "static/js/787.901aa77a.chunk.js": "/algo2m2/static/js/787.901aa77a.chunk.js",
+    "index.html": "/algo2m2/index.html",
+    "main.e6c13ad2.css.map": "/algo2m2/static/css/main.e6c13ad2.css.map",
+    "main.15cc2012.js.map": "/algo2m2/static/js/main.15cc2012.js.map",
+    "787.901aa77a.chunk.js.map": "/algo2m2/static/js/787.901aa77a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.15cc2012.js"
+  ]
+}
